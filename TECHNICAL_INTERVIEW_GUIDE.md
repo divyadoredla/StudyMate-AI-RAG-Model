@@ -1,5 +1,8 @@
 # 🎯 StudyMate AI - Technical Interview Guide
 
+**Live Demo:** [https://studymate-ai-rag-model.streamlit.app/](https://studymate-ai-rag-model.streamlit.app/)  
+**GitHub Repository:** [https://github.com/divyadoredla/StudyMate-AI-RAG-Model](https://github.com/divyadoredla/StudyMate-AI-RAG-Model)
+
 ## Table of Contents
 1. [Project Overview](#project-overview)
 2. [File-by-File Breakdown](#file-by-file-breakdown)

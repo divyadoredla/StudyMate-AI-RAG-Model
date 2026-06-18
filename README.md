@@ -1,5 +1,10 @@
 ﻿# 📚 StudyMate AI - RAG-Powered Study Assistant
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://studymate-ai-rag-model.streamlit.app/)
+
+## 🚀 Live Demo
+**Try it now:** [https://studymate-ai-rag-model.streamlit.app/](https://studymate-ai-rag-model.streamlit.app/)
+
 ## Overview
 StudyMate AI is an intelligent study companion that leverages RAG (Retrieval-Augmented Generation) architecture to help students learn from their PDF study materials. Upload multiple PDFs (lecture notes, textbooks, etc.) and interact with them through AI-powered chat, summaries, quizzes, and flashcards.
 
