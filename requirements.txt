@@ -1,0 +1,29 @@
+# ── Core Framework ──────────────────────────────────────────────
+streamlit>=1.32.0
+
+# ── LangChain Stack (pinned to a compatible set) ───────────────
+langchain>=0.2.0
+langchain-community>=0.2.0
+langchain-openai>=0.1.0
+
+# ── LLM: OpenAI ─────────────────────────────────────────────
+openai>=1.0.0
+
+# ── Embeddings: HuggingFace Sentence Transformers ─────────────
+sentence-transformers>=2.7.0
+huggingface-hub>=0.23.0
+
+# ── Vector Store: FAISS ───────────────────────────────────────
+faiss-cpu>=1.8.0
+
+# ── PDF Handling ─────────────────────────────────────────────
+pypdf>=4.2.0            # Modern replacement for PyPDF2
+
+# ── Auth & Database ──────────────────────────────────────────
+bcrypt>=4.1.3
+
+# ── Environment Variables ────────────────────────────────────
+python-dotenv>=1.0.1
+
+# ── Utilities ────────────────────────────────────────────────
+tiktoken>=0.7.0         # Token counting utility

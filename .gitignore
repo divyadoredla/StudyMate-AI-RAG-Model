@@ -1,0 +1,29 @@
+# Environment variables — NEVER commit these
+.env
+
+# Database (contains user passwords)
+app.db
+
+# FAISS index (large binary files, regenerated from PDFs)
+faiss_index/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# HuggingFace model cache (large, re-downloaded automatically)
+models/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# OS files
+.DS_Store
+Thumbs.db
