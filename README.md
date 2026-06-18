@@ -253,3 +253,5 @@ divyadoredla24@gmail.com
 - Groq for free LLM access
 - Sentence Transformers for embeddings
 - Streamlit for rapid prototyping
+
+Created with ❤️ by Doredla Divya Sri @2026
