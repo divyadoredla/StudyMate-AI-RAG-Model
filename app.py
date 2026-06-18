@@ -419,6 +419,14 @@ def main():
             run_quiz_feature()
         elif "Flashcards" in feature_choice:
             run_flashcards_feature()
+    
+    # ── Footer ────────────────────────────────────────────────────────────────
+    st.markdown("---")
+    st.markdown("""
+        <div style="text-align:center; padding:20px 0 10px; color:#64748b; font-size:0.9rem;">
+            Created with ❤️ by <span style="color:#818cf8; font-weight:600;">Doredla Divya Sri</span> © 2026
+        </div>
+    """, unsafe_allow_html=True)
 
 
 if __name__ == "__main__":
